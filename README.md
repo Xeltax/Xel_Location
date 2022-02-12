@@ -1,10 +1,10 @@
-# Xel_Shop
- This is a shop script for FiveM in RageUI on 0.00ms without using
- ![proof](https://zupimages.net/up/22/01/x0gn.png)
+# Xel_Location
+ This script permit to rent vehicle with Rage UI v2.0
+ ![proof](https://zupimages.net/up/22/06/4d7p.png)
 
 # Config
  Just change the values in the config.lua
+ The configuration help text is written in French so translate ;)
 
-## Special Thanks to Desperados
- Thanks to desperados for the base of the code check he's work
- https://github.com/Desperados-Creation
+## V2 with jet-ski, moto cross (optionnal : boat, plane)
+ The v2 will be for sell contact me : Xeltax_#6455 
