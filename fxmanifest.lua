@@ -1,21 +1,23 @@
-fx_version 'cerulean'
-games { 'gta5' };
+fx_version 'adamant'
 
-client_scripts {
-    "src/RMenu.lua",
-    "src/menu/RageUI.lua",
-    "src/menu/Menu.lua",
-    "src/menu/MenuController.lua",
-    "src/components/*.lua",
-    "src/menu/elements/*.lua",
-    "src/menu/items/*.lua",
-    "src/menu/panels/*.lua",
-    "src/menu/windows/*.lua",
+game 'gta5'
 
-    "client.lua",
-    "config.lua"
-}
+description 'Script de location de véhicule par Xeltax'
+
+version 'legacy'
 
 server_scripts {
 	"server.lua"
+}
+
+client_scripts {
+	'src/RageUI.lua',
+    'src/Menu.lua',
+    'src/MenuController.lua',
+    'src/components/*.lua',
+    'src/elements/*.lua',
+    'src/items/*.lua',
+
+    "client.lua",
+    "config.lua"
 }
